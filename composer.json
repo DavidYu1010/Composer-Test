@@ -1,6 +1,6 @@
 {
 	"name": "david-yu/composer-test",
-	"homepage": "https://github.com/DavidYu1010/Composer-Test",
+	"homepage": "https://github.com/DavidYu/Composer-Test",
 	"type": "wordpress-plugin",
 	"require": {
 		"php": ">=5.6"
